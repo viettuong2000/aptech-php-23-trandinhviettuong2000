@@ -1,0 +1,28 @@
+.tren{
+    width: 100%;
+    height: 60px;
+    background-color: #cccccc;
+}
+.tren h1{
+    color: white;
+    text-align: center;
+    line-height: 60px;
+}
+.giua{
+    display: flex;
+    
+}
+.trai{
+    width: 30%;
+}
+.phai{
+    width: 70%;
+
+}
+.trai ul li{
+list-style: none;
+}
+.nam-giua-nen-mau-trang-chu-xam{
+    background-color: grey;
+    text-align: center;
+}

@@ -1,0 +1,38 @@
+.first{
+    background-color: yellow;
+     display: flex; 
+}
+.first1{
+    background-color: red ;
+    height: 100px;
+    width: 30%;
+}
+.first2{
+    background-color: aqua ;
+    height: 100px;
+    width: 70%;
+}
+.second{
+    background-color: yellow;
+     display: flex; 
+}
+.second1{
+    background-color: blue ;
+    height: 100px;
+    width: 50%;
+}
+.second2{
+    background-color: black ;
+    height: 100px;
+    width: 50%;
+}
+.second11{
+    background-color: antiquewhite ;
+    height: 100px;
+    width: 50%;
+}
+.second12{
+    background-color:blueviolet ;
+    height: 100px;
+    width: 50%;
+}
